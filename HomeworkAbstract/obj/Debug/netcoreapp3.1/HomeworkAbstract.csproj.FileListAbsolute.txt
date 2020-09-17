@@ -1,0 +1,11 @@
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.exe
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.deps.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.runtimeconfig.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.runtimeconfig.dev.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.dll
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\bin\Debug\netcoreapp3.1\HomeworkAbstract.pdb
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\obj\Debug\netcoreapp3.1\HomeworkAbstract.csprojAssemblyReference.cache
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\obj\Debug\netcoreapp3.1\HomeworkAbstract.AssemblyInfoInputs.cache
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\obj\Debug\netcoreapp3.1\HomeworkAbstract.AssemblyInfo.cs
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\obj\Debug\netcoreapp3.1\HomeworkAbstract.dll
+C:\Users\Elgiz\Documents\DevEducation\HomeworkAbstract\HomeworkAbstract\obj\Debug\netcoreapp3.1\HomeworkAbstract.pdb
