@@ -9,8 +9,8 @@ namespace HomeworkAbstract
             bool Exit = false;
             do
             {
-                Console.WriteLine("Меню: \n1.Ввод данных. \n2.Выход.\nВведите цифру перед пунктом для перехода в пункт меню.");
-                int navigate = InputInfo.InputNavigate2();
+                Console.WriteLine("Меню: \n1.Ввод данных.\n2.Практика с методами System.Object \n3.Выход \nВведите цифру перед пунктом для перехода в пункт меню.");
+                int navigate = InputInfo.InputNavigate1();
                 switch (navigate)
                 {
                     case 1:
@@ -67,6 +67,34 @@ namespace HomeworkAbstract
                         }
 
                     case 2:
+                        {
+                            Student test1 = new Student("",1,1);
+                            Student test2 = new Student("", 1, 1);
+
+                            Console.WriteLine("To.String " + test1.ToString());
+                            Console.WriteLine("string.IsNullOrEmpty "+string.IsNullOrEmpty(test1.Name));
+                            Console.WriteLine("GetHashCode "+test1.GetHashCode());
+                            Console.WriteLine("GetHashCode "+test2.GetHashCode());
+                            string name1 = "Elgiz";
+                            string name2 = "Elgiz";
+                            Console.WriteLine("GetHashCode name1 " + name1.GetHashCode());
+                            Console.WriteLine("GetHashCode name2 " + name2.GetHashCode());
+                            Console.WriteLine("GetType " + test1.GetType());
+                            if (test1.GetType() == typeof(Student))
+                            {
+                                Console.WriteLine("It is Student");
+                            }
+                            if (test1.Equals(test2))
+                            {
+                                Console.WriteLine("Is equal.");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Is not equal.");
+                            }
+                                break;
+                        }
+                    case 3:
                         {
                             Exit = true;
                             break;
